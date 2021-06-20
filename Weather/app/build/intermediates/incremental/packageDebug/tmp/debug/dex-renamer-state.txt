@@ -1,0 +1,4 @@
+#Sat Jun 19 16:36:47 COT 2021
+base.0=D\:\\Moviles-app8a\\Weather\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
